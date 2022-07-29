@@ -9,7 +9,7 @@ The advantage is:_
 
 _The repository also contains the spec files for applications that I've currently build using this software_
 
-_Currently it will only create RPM packages for Enterprise Linux 9 using either AlmaLinux or Rocky-Linux_
+_Currently it will only create RPM packages for Enterprise Linux 9 using either AlmaLinux or Rocky-Linux based containers_
 
 ## Preparation Enterpirse Linux 7
 1. Install docker using your distros package manager. For Centos this could be installed using: 
