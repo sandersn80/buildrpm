@@ -1,0 +1,6 @@
+# Exclude buildirs
+*/Build/*
+BUILD.LOG
+*/*/Build/*
+verify/*
+RPM-GPG-KEY
