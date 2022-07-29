@@ -1,0 +1,19 @@
+--- pom.xml_org	2022-07-27 09:11:17.163127126 +0200
++++ pom.xml	2022-07-27 09:14:16.364453845 +0200
+@@ -29,7 +29,7 @@
+                 <artifactId>maven-compiler-plugin</artifactId>
+                 <version>3.8.1</version>
+                 <configuration>
+-                    <release>14</release>
++                    <release>11</release>
+                 </configuration>
+             </plugin>
+         </plugins>
+@@ -38,6 +38,6 @@
+         <long.version>7.0.1.0</long.version>
+         <release.version>1325</release.version> <!-- git rev-list - -count HEAD -->
+         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+-        <maven.compiler.release>14</maven.compiler.release>
++        <maven.compiler.release>11</maven.compiler.release>
+     </properties>
+ </project>

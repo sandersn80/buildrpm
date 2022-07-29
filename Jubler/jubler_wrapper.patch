@@ -1,0 +1,8 @@
+--- resources/installers/generic/jubler_org	2022-07-27 08:48:35.971735284 +0200
++++ resources/installers/generic/jubler	2022-07-27 08:48:42.216745019 +0200
+@@ -1,4 +1,4 @@
+ #!/bin/sh
+ 
+-cd "`dirname \"$0\"`"
++cd `dirname \`readlink -f $0\``
+ java -jar lib/jubler.jar
