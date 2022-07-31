@@ -1,0 +1,2 @@
+REPO_STORAGE_PATH=/path/to/store/repo
+RPM_KEY_SINGER_DESCRIPTION="RPM Key Signer"

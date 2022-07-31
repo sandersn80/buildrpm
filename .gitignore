@@ -1,4 +1,5 @@
 # Exclude buildirs
+settings.sh
 */Build/*
 BUILD.LOG
 */*/Build/*
