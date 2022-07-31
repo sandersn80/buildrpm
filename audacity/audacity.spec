@@ -59,3 +59,5 @@ chmod 755 *.*
 %doc
 
 %changelog
+* Wed Jul 27 2022 Naatje80
+- Initial version

@@ -26,3 +26,7 @@ rm -rf ${RPM_BUILD_ROOT}
 %makeinstall
 
 %files
+
+%changelog
+* Sun Jul 31 2022 Naatje80
+- Initial version
