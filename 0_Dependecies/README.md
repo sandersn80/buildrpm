@@ -1,0 +1,2 @@
+# Dependencies
+Various depencies not available in neiter the official Enterprise Linux repositories as wel as EPEL. These depencies are simlinked within the actual application requiring it  during compilation and/or during runtime.
