@@ -29,7 +29,7 @@ _Currently it will only create RPM packages for Enterprise Linux 9 using either 
 
 ## Download rpmbuild
 Clone the project using git:
-`git clone https://github.com/naatje80/buildrpm.git`
+`git clone https://github.com/sandersn80/buildrpm.git`
 
 ## Usage
 To compile an application already supplied in the repostiory:
